@@ -84,15 +84,15 @@
 
 .formulario-tareas__btn {
 	position: absolute;
-	bottom: 40px;
-	right: 20px;
+	bottom: 35px;
+	right: 25px;
 	border: none;
 	background: none;
 	cursor: pointer;
 }
 
 .formulario-tareas__icono-btn {
-	font-size: 22px;
+	font-size: 30px;
 	color: var(--verde);
 }
 
